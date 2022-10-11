@@ -1,0 +1,394 @@
+# Translation of Themes - Setto in Turkish
+# This file is distributed under the same license as the Themes - Setto package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-21 09:20:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Setto\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Setto is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. Checkout Pro Version https://burgerthemes.com/demo/pro/setto/"
+msgstr "Setto, uyarlanabilirliği sayesinde ajanslar, ticari işletmeler, finans, danışmanlık, fabrika, emlak, inşaat, temizlik hizmetleri, girişimler veya bireysel herhangi bir web sitesi için uygun, modern, çok amaçlı bir ticari temadır. Tüm modern tarayıcılarda, mobil cihazlarda, tabletlerde veya diğer cihazlarda mükemmel görünür. Tema özelleştirme seçenekleri ve ayarlarıyla doludur, neredeyse her şeyi değiştirebilirsiniz. https://burgerthemes.com/demo/pro/setto/ adresinden pro sürüme göz atın."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Setto"
+msgstr "Setto"
+
+#: footer.php:40
+msgid "<a href=\"https://burgerthemes.com/setto-free/\" target=\"_blank\">Setto</a>"
+msgstr "<a href=\"https://burgerthemes.com/setto-free/\" target=\"_blank\">Setto</a>"
+
+#: inc/extras.php:482
+msgid "Get started with Setto"
+msgstr "Setto ile işe başlayın"
+
+#: inc/extras.php:480
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Bu temanın sunduğu tüm özelliklerden tam olarak yararlanmak için <strong>Burger Companion</strong> eklentisini yükleyin ve etkinleştirin."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:476
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Hoşgeldiniz! %1$s temasını seçtiğiniz için teşekkürler!"
+
+#: inc/extras.php:469
+msgid "Theme Screenshot"
+msgstr "Tema ekran görüntüsü"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in Setto Pro"
+msgstr "Setto Pro ile daha fazla özellik alın"
+
+#: woocommerce/content-product.php:47
+msgid "Sale"
+msgstr "İndirim"
+
+#: woocommerce/cart/mini-cart.php:111 woocommerce/cart/mini-cart.php:220
+msgid "Continue shopping"
+msgstr "Alışverişe devam et"
+
+#: woocommerce/cart/mini-cart.php:107 woocommerce/cart/mini-cart.php:216
+msgid "No products in the cart."
+msgstr "Sepetinizde ürün yok."
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/cart/mini-cart.php:206
+msgid "Checkout"
+msgstr "Ödeme"
+
+#: woocommerce/cart/mini-cart.php:96 woocommerce/cart/mini-cart.php:205
+msgid "View Cart"
+msgstr "Sepeti görüntüle"
+
+#: woocommerce/cart/mini-cart.php:90 woocommerce/cart/mini-cart.php:199
+msgid "Sub Total:"
+msgstr "Ara toplam:"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:156
+msgid "Remove this item"
+msgstr "Bu ürünü çıkar"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Tam sayfa genişlik"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Ön sayfa"
+
+#: template-parts/sections/section-header.php:62
+msgid "Menu"
+msgstr "Menü"
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s yazısına devam et <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünüşe göre istediğiniz içeriği bulamıyoruz. Belki arama yardımcı olabilir."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüm, aradığınız terimlerle eşleşen sonuç bulunamadı. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>"
+
+#: single.php:65
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: single.php:52
+msgid "By"
+msgstr "Yazarı:"
+
+#: single.php:41 template-parts/content/content-page.php:37
+#: template-parts/content/content-search.php:37
+msgid "Read More"
+msgstr "Devamını oku"
+
+#: searchform.php:10
+msgid "Search for:"
+msgstr "Şunu ara:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "%s yazısını düzenle"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> için bir yorum yapın"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Takip edilen %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Yayınlanan %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s tarafından"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s tarihinde gönderilmiş"
+
+#: inc/extras.php:430
+msgid "Page"
+msgstr "Sayfa"
+
+#: inc/extras.php:425
+msgid "Error 404 "
+msgstr "404 Hatası"
+
+#: inc/extras.php:421
+msgid "Articles posted by "
+msgstr "Şu yazarın makaleleri:"
+
+#: inc/extras.php:415
+msgid "Posts tagged "
+msgstr "Şununla etiketli yazılar:"
+
+#: inc/extras.php:312
+msgid "Search results for "
+msgstr "Arama sonuçları, kriter: "
+
+#: inc/extras.php:306
+msgid "Archive by category"
+msgstr "Kategori bazında arşiv"
+
+#: inc/extras.php:286
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: inc/extras.php:284 inc/extras.php:287
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:76 inc/extras.php:264
+msgid "0"
+msgstr "0"
+
+#: inc/customizer/customizer-options/setto_recommended_plugin.php:16
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#: inc/customizer/customizer-options/setto_recommended_plugin.php:15
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/customizer/customizer-options/setto_recommended_plugin.php:14
+msgid "Install and Activate"
+msgstr "Yükle ve etkinleştir"
+
+#: inc/customizer/customizer-options/setto_recommended_plugin.php:13
+msgid "Recommended Plugin"
+msgstr "Önerilen eklenti"
+
+#: inc/customizer/customizer-options/setto_recommended_plugin.php:12
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: inc/customizer/customizer-options/setto_recommended_plugin.php:8
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer Setto."
+msgstr "Setto temasının sunduğu tüm özelliklerden tam olarak yararlanmak için <strong>Burger Companion</strong> eklentisini kurun ve etkinleştirin."
+
+#: inc/customizer/customizer-options/setto-header.php:157
+#: inc/customizer/customizer-options/setto-header.php:176
+msgid "Sticky Header"
+msgstr "Yapışkan üst kısım"
+
+#: inc/customizer/customizer-options/setto-header.php:124
+msgid "Cart"
+msgstr "Sepet"
+
+#: inc/customizer/customizer-options/setto-header.php:84
+msgid "My Account"
+msgstr "Hesabım"
+
+#: inc/customizer/customizer-options/setto-header.php:42 inc/extras.php:156
+#: inc/extras.php:197
+msgid "Search"
+msgstr "Ara"
+
+#: inc/customizer/customizer-options/setto-header.php:23
+msgid "Header Navigation"
+msgstr "Üst kısım dolaşımı"
+
+#: inc/customizer/customizer-options/setto-general.php:55
+msgid "Hide / Show Section"
+msgstr "Bölümü gizle / göster"
+
+#: inc/customizer/customizer-options/setto-general.php:16
+msgid "Breadcrumb Section"
+msgstr "Bağlantı haritası bölümü"
+
+#: inc/customizer/customizer-options/setto-general.php:7
+msgid "General"
+msgstr "Genel"
+
+#: inc/customizer/customizer-options/setto-footer.php:99
+#: inc/customizer/customizer-options/setto-header.php:61
+#: inc/customizer/customizer-options/setto-header.php:103
+#: inc/customizer/customizer-options/setto-header.php:143
+#: inc/customizer/customizer-options/setto-header.php:193
+msgid "Hide/Show"
+msgstr "Gizle/Göster"
+
+#: inc/customizer/customizer-options/setto-footer.php:82
+msgid "Social Icon"
+msgstr "Sosyal simge"
+
+#: inc/customizer/customizer-options/setto-footer.php:59
+msgid "Copytight"
+msgstr "Telif hakkı"
+
+#: inc/customizer/customizer-options/setto-footer.php:46
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Telif hakkı &copy; [current_year] [site_title] | Geliştirici [theme_author]"
+
+#: inc/customizer/customizer-options/setto-footer.php:39
+msgid "Copyright"
+msgstr "Telif hakkı"
+
+#: inc/customizer/customizer-options/setto-footer.php:20
+msgid "Footer Copyright"
+msgstr "Alt kısım telif hakkı"
+
+#: inc/customizer/customizer-options/setto-footer.php:10
+msgid "Footer"
+msgstr "Alt kısım"
+
+#: inc/customizer/customizer-options/setto-blog.php:134
+msgid "No of Posts Display"
+msgstr "Gösterilecek yazı sayısı"
+
+#: inc/customizer/customizer-options/setto-blog.php:116
+msgid "Content"
+msgstr "İçerik"
+
+#: inc/customizer/customizer-options/setto-blog.php:94
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer/customizer-options/setto-blog.php:75
+#: inc/customizer/customizer-options/setto-header.php:12
+msgid "Header"
+msgstr "Başlık"
+
+#: inc/customizer/customizer-options/setto-blog.php:55
+msgid "Hide / Show"
+msgstr "Gizle / Göster"
+
+#: inc/customizer/customizer-options/setto-blog.php:35
+#: inc/customizer/customizer-options/setto-general.php:36
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: inc/customizer/customizer-options/setto-blog.php:15
+msgid "Blog Section"
+msgstr "Blog bölümü"
+
+#: inc/customizer/customizer-options/setto-blog.php:7
+msgid "Frontpage Sections"
+msgstr "Ön sayfa bölümleri"
+
+#: inc/customizer/customizer-notify/setto-notify.php:110
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#: inc/class-wp-bootstrap-navwalker.php:372
+msgid "Add a menu"
+msgstr "Bir menü ekleyin"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:124
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Bu bileşen alanı WooCommerce bileşeni için"
+
+#: functions.php:122
+msgid "WooCommerce Widget Area"
+msgstr "WooCommerce bileşen alanı"
+
+#: functions.php:114
+msgid "The Footer Widget Area"
+msgstr "Alt kısım bileşen alanı"
+
+#: functions.php:112
+msgid "Footer Widget Area"
+msgstr "Alt kısım bileşen alanı"
+
+#: functions.php:104
+msgid "The Primary Widget Area"
+msgstr "Birincil bileşen alanı"
+
+#: functions.php:102
+msgid "Sidebar Widget Area"
+msgstr "Yan sütun bileşen alanı"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: 404.php:20 404.php:21
+msgid "Back to homepage"
+msgstr "Ana sayfaya dön"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/setto-free/"
+msgstr "https://burgerthemes.com/setto-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"
